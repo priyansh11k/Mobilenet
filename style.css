@@ -1,0 +1,43 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float : none;
+    padding: 10px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .result span{
+  white-space: pre-line;
+  }
+  .footer{
+    bottom: 0;
+    position: fixed;
+    background-color: hotpink;
+    color : white;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+  }
+ canvas{
+  border : 5px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+  margin-top: 180px;
+ }
